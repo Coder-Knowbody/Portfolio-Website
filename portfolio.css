@@ -1,0 +1,26 @@
+body {
+    font-family: Agency FB, Bernard Mt;
+    background-color: black;
+    background-image: url("bg.png");
+    background-position: 0% 100%;
+    text-transform: capitalize;
+}
+.logo {
+    text-decoration: none;
+    color: crimson;
+}
+.hello {
+    color: crimson;
+}
+.intro {
+    text-transform: uppercase;
+    background-image: url("bdg.jpg");
+}
+.contacts {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
